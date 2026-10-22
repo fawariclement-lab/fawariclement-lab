@@ -26,13 +26,19 @@ I turn raw data into clear business insights through BI dashboards, data analyti
 - US companies accounted for roughly **$310.6B** in total funding — far ahead of any other country
 - High-activity funds averaged **252** investment rounds, versus just **2** for low-activity funds
 
-## More Projects
+## Projects
 
 | Project | Tools | Highlight |
 | --- | --- | --- |
-| Manhattan Vacation Rental Investment Analysis | Excel | 2,400+ listings analyzed; identified the top-10 demand neighborhoods and a Midtown studio with an estimated $359,280 annual revenue opportunity |
-| Customer Conversion & Cohort Retention Analysis | Excel | 43,000+ e-commerce events; only 10.3% of cart users completed a purchase and first-month repeat retention was under 4.8% |
-| Shopify App Marketplace Performance Analysis | Power BI | 7,300+ apps; DAX-powered dashboards on ratings, review helpfulness, and developer responsiveness |
+| [Exploring Startup Trends with SQL](https://github.com/fawariclement-lab/startup-trends-sql-analysis) | SQL | 10 queries on a venture-capital dataset: 2,584 closures, ~$310.6B US funding, fund activity from 2 to 252 average rounds |
+| [Superstore Returns — Root Cause Analysis](https://github.com/fawariclement-lab/superstore-returns-analysis) | Tableau | 25.97% return rate costing $142,137; Machines returns at 35.03%; repeat returners at ~100% |
+| [Retail Profit & Returns Analysis](https://github.com/fawariclement-lab/retail-profit-returns-analysis) | Tableau | 8-view workbook on US retail profit/loss centers and product, customer, and state return rates (2%–64%) |
+| [Zomato Sales Analysis](https://github.com/fawariclement-lab/zomato-sales-analysis) | Tableau | India food delivery 2017–2020: ₹986.6M revenue, 150,279 orders, AOV ₹6,564.88, 1.07% cancellation rate |
+| [Shopify App Marketplace Performance Analysis](https://github.com/fawariclement-lab/shopify-app-marketplace-powerbi) | Power BI | 7,300+ apps; DAX-powered dashboards on ratings, review helpfulness, and developer responsiveness |
+| [Manhattan Vacation Rental Investment Analysis](https://github.com/fawariclement-lab/manhattan-vacation-rental-analysis) | Excel | 2,400+ listings analyzed; identified the top-10 demand neighborhoods and a Midtown studio with an estimated $359,280 annual revenue opportunity |
+| [Customer Conversion & Cohort Retention Analysis](https://github.com/fawariclement-lab/ecommerce-conversion-cohort-analysis) | Excel | 43,000+ e-commerce events; only 10.3% of cart users completed a purchase and first-month repeat retention was under 4.8% |
+
+All Tableau dashboards in one showcase: [tableau-projects](https://github.com/fawariclement-lab/tableau-projects) · [Tableau Public profile](https://public.tableau.com/app/profile/clement.fawari)
 
 ## Consult 5.0
 
@@ -43,4 +49,3 @@ Business intelligence and data analytics consulting for small businesses, online
 [![LinkedIn — Consult 5.0](https://img.shields.io/badge/LinkedIn_·_Consult_5.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/consult-5-0)
 [![LinkedIn — Clement Fawari](https://img.shields.io/badge/LinkedIn_·_Clement_Fawari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-fawari)
 [![Instagram](https://img.shields.io/badge/Instagram_·_@consult5.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/consult5.0)
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-1F77B4?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/clement.fawari)
