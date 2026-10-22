@@ -43,3 +43,4 @@ Business intelligence and data analytics consulting for small businesses, online
 [![LinkedIn — Consult 5.0](https://img.shields.io/badge/LinkedIn_·_Consult_5.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/consult-5-0)
 [![LinkedIn — Clement Fawari](https://img.shields.io/badge/LinkedIn_·_Clement_Fawari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-fawari)
 [![Instagram](https://img.shields.io/badge/Instagram_·_@consult5.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/consult5.0)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-1F77B4?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/clement.fawari)
