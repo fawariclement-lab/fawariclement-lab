@@ -38,6 +38,8 @@ I turn raw data into clear business insights through BI dashboards, data analyti
 | [Manhattan Vacation Rental Investment Analysis](https://github.com/fawariclement-lab/manhattan-vacation-rental-analysis) | Excel | 2,400+ listings analyzed; identified the top-10 demand neighborhoods and a Midtown studio with an estimated $359,280 annual revenue opportunity |
 | [Customer Conversion & Cohort Retention Analysis](https://github.com/fawariclement-lab/ecommerce-conversion-cohort-analysis) | Excel | 43,000+ e-commerce events; only 10.3% of cart users completed a purchase and first-month repeat retention was under 4.8% |
 | [Customer Churn Prediction — Machine Learning](https://github.com/fawariclement-lab/customer-churn-prediction) | Python, scikit-learn (Logistic Regression, Decision Trees) | 85% of churners caught (Recall 0.850) — complaint flag is the strongest churn signal |
+| [Video Game Sales Analysis](https://github.com/fawariclement-lab/sprint3-python-project) | Python | The 20 best-selling games of all time: $582.59M in total sales, Wii Sports holding a 14.2% share, Nintendo published 17 of 20 |
+| [E-Commerce Customer Behavior Analysis](https://github.com/fawariclement-lab/ecommerce-customer-behavior-eda) | Python, SQL | 99,441 orders across 7 tables: 97.02% delivered, São Paulo = 42.0% of customers, delivery speed vs review score correlation −0.334 |
 
 All Tableau dashboards in one showcase: [tableau-projects](https://github.com/fawariclement-lab/tableau-projects) · [Tableau Public profile](https://public.tableau.com/app/profile/clement.fawari)
 
