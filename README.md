@@ -37,6 +37,7 @@ I turn raw data into clear business insights through BI dashboards, data analyti
 | [Shopify App Marketplace Performance Analysis](https://github.com/fawariclement-lab/shopify-app-marketplace-powerbi) | Power BI | 7,300+ apps; DAX-powered dashboards on ratings, review helpfulness, and developer responsiveness |
 | [Manhattan Vacation Rental Investment Analysis](https://github.com/fawariclement-lab/manhattan-vacation-rental-analysis) | Excel | 2,400+ listings analyzed; identified the top-10 demand neighborhoods and a Midtown studio with an estimated $359,280 annual revenue opportunity |
 | [Customer Conversion & Cohort Retention Analysis](https://github.com/fawariclement-lab/ecommerce-conversion-cohort-analysis) | Excel | 43,000+ e-commerce events; only 10.3% of cart users completed a purchase and first-month repeat retention was under 4.8% |
+| [Customer Churn Prediction — Machine Learning](https://github.com/fawariclement-lab/customer-churn-prediction) | Python, scikit-learn (Logistic Regression, Decision Trees) | 85% of churners caught (Recall 0.850) — complaint flag is the strongest churn signal |
 
 All Tableau dashboards in one showcase: [tableau-projects](https://github.com/fawariclement-lab/tableau-projects) · [Tableau Public profile](https://public.tableau.com/app/profile/clement.fawari)
 
