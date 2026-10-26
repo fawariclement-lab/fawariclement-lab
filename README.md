@@ -26,6 +26,7 @@ I turn raw data into clear business insights through BI dashboards, data analyti
 ## Tools & Technologies
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -75,3 +76,4 @@ Emergency medicine (EMT) before data — I bring frontline operational thinking 
 [![LinkedIn — Consult 5.0](https://img.shields.io/badge/LinkedIn_·_Consult_5.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/consult-5-0)
 [![LinkedIn — Clement Fawari](https://img.shields.io/badge/LinkedIn_·_Clement_Fawari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-fawari)
 [![Instagram](https://img.shields.io/badge/Instagram_·_@consult5.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/consult5.0)
+[![Gmail](https://img.shields.io/badge/Gmail-fawariclement%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawariclement@gmail.com)
