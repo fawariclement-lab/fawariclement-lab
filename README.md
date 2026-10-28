@@ -11,6 +11,7 @@ I turn raw data into clear business insights through BI dashboards, data analyti
 [![LinkedIn — Consult 5.0](https://img.shields.io/badge/LinkedIn_·_Consult_5.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/consult-5-0)
 [![LinkedIn — Clement Fawari](https://img.shields.io/badge/LinkedIn_·_Clement_Fawari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-fawari)
 [![Instagram](https://img.shields.io/badge/Instagram_·_@consult5.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/consult5.0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawariclement@gmail.com)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/clement.fawari)
 
 </div>
@@ -56,12 +57,14 @@ I turn raw data into clear business insights through BI dashboards, data analyti
 | [Shopify App Marketplace Performance Analysis](https://github.com/fawariclement-lab/shopify-app-marketplace-powerbi) | Power BI, DAX | 7,300+ apps; star ratings barely separate anything — review depth is the real signal |
 | [Manhattan Vacation Rental Investment Analysis](https://github.com/fawariclement-lab/manhattan-vacation-rental-analysis) | Excel | 2,400+ listings; one Midtown studio at $29,940 in 30 days |
 | [Customer Conversion & Cohort Retention Analysis](https://github.com/fawariclement-lab/ecommerce-conversion-cohort-analysis) | Excel | 43,000+ events; 29% view-to-cart, 10.3% cart-to-purchase, <4.8% first-month repeat |
-| [Video Game Sales Analysis](https://github.com/fawariclement-lab/sprint3-python-project) | Python | $582.59M across the 20 best-selling games; Wii Sports 14.2%, Nintendo published 17 of 20 |
+| [Video Game Sales Analysis](https://github.com/fawariclement-lab/video-game-sales-analysis) | Python | $582.59M across the 20 best-selling games; Wii Sports 14.2%, Nintendo published 17 of 20 |
 | [E-Commerce Customer Behavior Analysis](https://github.com/fawariclement-lab/ecommerce-customer-behavior-eda) | Python, SQL | 99,441 orders; 97.02% delivered; São Paulo 42.0% of customers |
 | [Zomato Sales Analysis](https://github.com/fawariclement-lab/zomato-sales-analysis) | Tableau | ₹986.6M revenue, 150,279 orders, 1.07% cancellation rate |
 | [Retail Profit & Returns Analysis](https://github.com/fawariclement-lab/retail-profit-returns-analysis) | Tableau | 8-view workbook: profit/loss centers and product return rates from 2% to 64% |
 
 All Tableau dashboards in one showcase: [tableau-projects](https://github.com/fawariclement-lab/tableau-projects) · [Tableau Public profile](https://public.tableau.com/app/profile/clement.fawari)
+
+TripleTen project index: [Data_projects_TripleTen](https://github.com/fawariclement-lab/Data_projects_TripleTen)
 
 ## Consult 5.0
 
@@ -76,4 +79,4 @@ Emergency medicine (EMT) before data — I bring frontline operational thinking 
 [![LinkedIn — Consult 5.0](https://img.shields.io/badge/LinkedIn_·_Consult_5.0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/consult-5-0)
 [![LinkedIn — Clement Fawari](https://img.shields.io/badge/LinkedIn_·_Clement_Fawari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-fawari)
 [![Instagram](https://img.shields.io/badge/Instagram_·_@consult5.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/consult5.0)
-[![Gmail](https://img.shields.io/badge/Gmail-fawariclement%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawariclement@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fawariclement@gmail.com)
